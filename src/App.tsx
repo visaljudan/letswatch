@@ -28,7 +28,6 @@ import History from "./user/History";
 import MySubscription from "./user/subscription/MySubscription";
 
 const App: React.FC = () => {
-  const targetDate = new Date("2024-12-31T23:59:59");
   return (
     <Router>
       <Routes>
@@ -63,18 +62,15 @@ const App: React.FC = () => {
           <Route path="/movies/:id/play" element={<MoviePlay />} />
         </Route>
 
-        <Route
-          path="/my-subscription"
-          element={<MySubscription />}
-        />
+        <Route path="/my-subscription" element={<MySubscription />} />
 
         {/* Routes for Admin */}
-        <Route path="/admin/signup" element={<SignUpAdmin />} />
+        {/* <Route path="/admin/signup" element={<SignUpAdmin />} />
         <Route path="/admin/signin" element={<SignInAdmin />} />
         <Route path="/admin/dashboard" element={<AdminDashboard />} />
         <Route path="/admin/admin-request" element={<AdminRequest />} />
         <Route path="/admin/movies" element={<AdminMovies />} />
-        <Route path="/admin/upload" element={<UploadMovies />} />
+        <Route path="/admin/upload" element={<UploadMovies />} /> */}
 
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
