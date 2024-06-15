@@ -1,0 +1,7 @@
+[
+  { "title": "Home", "url": "/" },
+  { "title": "Movies", "url": "/movies" },
+  { "title": "TV-Shows", "url": "/tv-shows" },
+  { "title": "Countries", "url": "/countries" },
+  { "title": "Years", "url": "/years" }
+]

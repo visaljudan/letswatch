@@ -1,0 +1,102 @@
+[
+  {
+    "movieName": "Iron Man",
+    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/0/d/d/small-spos8825-poster-iron-man-1-a-official-sticker-sl-9829-wall-original-imaghs5pygznwxu9.jpeg?q=20&crop=false",
+    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "duration": "2h 6min",
+    "director": "Jon Favreau",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "Iron Man 2",
+    "imageUrl": "https://i.ebayimg.com/images/g/KcUAAOSw0kNieuBI/s-l1600.jpg",
+    "overview": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+    "duration": "2h 4min",
+    "director": "Jon Favreau",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "Iron Man 3",
+    "imageUrl": "https://i.ebayimg.com/images/g/9GAAAOSwaJli~NsU/s-l1200.webp",
+    "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "duration": "2h 10min",
+    "director": "Shane Black",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "Spider-Man",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhhVs_1SKfBhHdaWP9SwObcs5uUUp4lNsuMqC-4ojXw&s",
+    "overview": "After being bitten by a genetically altered spider, Peter Parker balances life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+    "duration": "2h 1min",
+    "director": "Sam Raimi",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "Spider-Man 2",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "overview": "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius, who becomes Doctor Octopus (aka Doc Ock), after an accident causes him to bond psychically with mechanical tentacles.",
+    "duration": "2h 7min",
+    "director": "Sam Raimi",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "Spider-Man 3",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "overview": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+    "duration": "2h 19min",
+    "director": "Sam Raimi",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "The Amazing Spider-Man",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Euod3V4bL._AC_UF894,1000_QL80_.jpg",
+    "overview": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to solve the mystery of his parent's mysterious death.",
+    "duration": "2h 16min",
+    "director": "Marc Webb",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "The Amazing Spider-Man 2",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP4FzEVsYwvr1fFSrggwmkcHpLZ_VEk7BcVQsrw2-DWA&s",
+    "overview": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+    "duration": "2h 22min",
+    "director": "Marc Webb",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "Spider-Man: Homecoming",
+    "imageUrl": "https://media.vanityfair.com/photos/592592596736887ada186bcd/master/w_1600%2Cc_limit/spider-man-homecoming-SMH_DOM_Online_FNL_1SHT_3DRD3DIMX_AOJ_300dpi_01_rgb.jpg",
+    "overview": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+    "duration": "2h 13min",
+    "director": "Jon Watts",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "movieName": "Spider-Man: Far From Home",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2iImNlWN5oZJD9hwOh6kH-jM6KS9qIzfdZLzaBygWQ&s",
+    "overview": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+    "duration": "2h 9min",
+    "director": "Jon Watts",
+    "country": "United States",
+    "rating": "PG-13",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  }
+]
